@@ -1,10 +1,8 @@
-package businessjohnv.moneymod;
+package businessjohnv.moneymod.mod;
 
 import businessjohnv.moneymod.api.AccountId;
 import businessjohnv.moneymod.api.AccountType;
 import businessjohnv.moneymod.core.MoneyService;
-import businessjohnv.moneymod.mod.MoneyCommands;
-import businessjohnv.moneymod.mod.MoneyState;
 import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
