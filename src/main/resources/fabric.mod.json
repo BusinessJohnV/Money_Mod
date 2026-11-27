@@ -3,9 +3,9 @@
 	"id": "money-mod",
 	"version": "${version}",
 	"name": "Money Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod is about economy, about money and to operate with money. Enjoy your money. :)",
 	"authors": [
-		"Me!"
+		""
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"businessjohnv.moneymod.MoneyMod"
+			"businessjohnv.moneymod.mod.MoneyMod"
 		],
 		"client": [
 			"businessjohnv.moneymod.client.MoneyModClient"
